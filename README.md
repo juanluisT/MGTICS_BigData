@@ -3,3 +3,4 @@ Git Flow basics
 
 ## Big Data
 .. SSH
+$ git clone
