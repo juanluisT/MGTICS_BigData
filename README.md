@@ -1,7 +1,7 @@
 # MGTICS_BigData
 Git Flow basics
 
-## Big Data
- `` SSH
-$ git clone <repo>
+## Basics commands
+ ``ssh
+$ git clone <repo_name>
 ```
