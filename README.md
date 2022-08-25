@@ -2,7 +2,7 @@
 Git Flow basics
 
 ## Basics commands //
- ``ssh
+```ssh
 $ git status
 $ git add .
 $ git commit -m "decription"
